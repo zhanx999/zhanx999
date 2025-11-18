@@ -17,7 +17,7 @@
 
 <p>
         💻 Specializing in Python, Django<br>
-        🎮 Enjoys gaming, learning new technologies, and building projects<br>
+        🎮 Enjoys gamdev, learning new technologies, and building projects<br>
         🌱 Currently exploring Django, APIs, and backend architecture
     </p>
 </div>
